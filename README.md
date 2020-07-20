@@ -5,7 +5,7 @@
 ## Introdução 🤓
 Esta é uma implementação simples de um aplicativo desenvolvido em Ionic para o gerenciamento de uma loja de surf. O aplicativo foi desenvolvido por mim após uma série de aulas gratuitas no Youtube pelo Igor. Utilizei também o Firebase nesta aplicação.
 
-### Pré requesitos ✋
+### Pré requisitos ✋
 * NPM
 * NodeJS
 * Ioinic
