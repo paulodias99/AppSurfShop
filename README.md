@@ -24,4 +24,4 @@ Esta é uma implementação simples de um aplicativo desenvolvido em Ionic para 
 E então no seguinte caminho <i>platforms\android\app\build\outputs\apk\release</i> será gerado o .apk não assinado. Basta rodar no seu celular.
 
 ## GIF de funcionamento da aplicação 🖥️
-![Funcionamento do Aplicativo](https://github.com/paulodias99/AppSurfShop/blob/master/edited-20200225-202733.gif)
+<img src="https://github.com/paulodias99/AppSurfShop/blob/master/edited-20200225-202733.gif" height="380" width="200" />
